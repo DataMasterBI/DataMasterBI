@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
-<h3 align="center">A passionate Data Analyst from Argentina
+<h1 align="center">A passionate Data Analyst from Argentina </h1>
 
 🌱 I’m currently learning **Machine learning, Deep learning and more**
 
