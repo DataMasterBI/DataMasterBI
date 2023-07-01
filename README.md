@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
 <h1 align="center">A passionate Data Analyst from Argentina </h1>
 
-<h3>🌱 I’m currently learning **Machine learning, Deep learning and more**
+<h3 align="center">🌱 I’m currently learning **Machine learning, Deep learning and more**
 
 📫 How to reach me **emilianoblanco@gmail.com**</h3>
 
