@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
 <h3 align="center">A passionate Data Analyst from Argentina
 
-- 🌱 I’m currently learning **Machine learning, Deep learning and more**
+🌱 I’m currently learning **Machine learning, Deep learning and more**
 
-- 📫 How to reach me **emilianoblanco@gmail.com**</h3>
+📫 How to reach me **emilianoblanco@gmail.com**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
